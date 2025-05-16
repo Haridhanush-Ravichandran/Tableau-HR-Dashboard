@@ -56,9 +56,14 @@ This flexible dashboard allows drill-down by any field — department, hire date
 *Summary of active employees, hires, terminations, demographics, and income.*
 
 ### Detailed Dashboard  
-![Detailed Dashboard](images/detailed_dashboard.png)  
+![Detailed Dashboard](screenshots/HR2.jpeg) ![](screenshots/HR4.jpeg)  
 *Employee details with filters to explore specific data subsets.*
 
+
+---
+## 🛠 Tools Used
+- Tableau Public
+- Excel / CSV for data preparation
 
 ---
 
